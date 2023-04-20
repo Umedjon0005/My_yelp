@@ -1,0 +1,25 @@
+body {
+    background-image: url(../restaran2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.input {
+    width: 80.5%;
+}
+
+.create {
+    background-color: burlywood;
+    text-align: center;
+    align-items: center;
+    display: grid;
+    margin-left: 50px;
+    border: 3px solid brown;
+    color: white;
+    height: 160px;
+    width: 160px;
+    border-radius: 10%;
+}
+.create:hover{
+    border: 3px solid black;
+}
