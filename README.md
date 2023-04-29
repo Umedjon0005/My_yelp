@@ -3,7 +3,7 @@ Welcome to my project. It is My Yelp project.
 
 ## Task
 This is my <a href="https://github.com/urmonovadiyora/My-Yelp">Git Hub</a>
-This is my Project <a href="https://master.dsb9bgmlcddnm.amplifyapp.com/">https://master.dsb9bgmlcddnm.amplifyapp.com/</a>
+This is my Project <a href="https://master.d3610bpvyslans.amplifyapp.com/">https://master.d3610bpvyslans.amplifyapp.com/</a>
 
 ## Description
 Acknowledgements
@@ -14,7 +14,7 @@ Authors
 Github
 
 Deployment
-  https://master.dsb9bgmlcddnm.amplifyapp.com/
+https://master.d3610bpvyslans.amplifyapp.com/
 Installation
 Install ReactJs App, Amplify Project
 
@@ -38,7 +38,7 @@ Start the server
   npm start
 ```
 ## Usage
-https://master.dsb9bgmlcddnm.amplifyapp.com/
+https://master.d3610bpvyslans.amplifyapp.com/
 
 ### The Core Team
 
